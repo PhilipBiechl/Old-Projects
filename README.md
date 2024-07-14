@@ -13,7 +13,7 @@ Introduction will follow
 ## Content of Repository
 | Folder   | Description | Date of creation |
 | -------- | -------- | -------- |
-| Embedded-Systems    | Project Files for Embedded-Systems semster project     | 26. June 2024     |
+| online_calculator    | simple html/css/js-calculator as practice for mentioned languages     | 14. July 2024     |
 
 ## Last Updated
 This README was last updated on 14. July 2024.
