@@ -9,7 +9,7 @@
   grid-content-cols: repeat(5, 50px);
 }
 
-.calculator button {
+.calculatorButton {
   border: 1px;
   border-radius: 5px;
   border-color: "#C2C2C2";
@@ -21,7 +21,7 @@
   cursor: pointer;
 }
 
-.calculator button:hover {
+.calculatorButton:hover {
   border-color: "#FFFFFFF";
 }
 
@@ -46,7 +46,7 @@
   word-break: break-all;
 }
 
-.output .prev-display {
+.output .prevDisplay {
   color: "#BCBCBC";
   font-size: 12px;
   font-weight: italic;
