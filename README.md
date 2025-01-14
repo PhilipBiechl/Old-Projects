@@ -17,4 +17,4 @@ Introduction will follow
 | body_problem | simple py-simulation for 3 (or more/less) body problem with pygame-library | 14. January 2025 |
 
 ## Last Updated
-This README was last updated on 14. July 2024.
+This README was last updated on 14. January 2025.
