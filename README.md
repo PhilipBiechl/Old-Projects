@@ -13,8 +13,10 @@ Introduction will follow
 ## Content of Repository
 | Folder   | Description | Date of creation |
 | -------- | -------- | -------- |
-| online_calculator    | simple html/css/js-calculator as practice for mentioned languages     | 14. July 2024     |
-| body_problem | simple py-simulation for 3 (or more/less) body problem with pygame-library | 14. January 2025 |
+| online_calculator    | simple html/css/js-calculator as practice for mentioned languages     | 14. July 2022     |
+| body_problem | simple py-simulation for 3 (or more/less) body problem with pygame-library | 14. January 2023 |
+
+> NOTE: This repo is outdated and was only meant for private purposes!
 
 ## Last Updated
-This README was last updated on 14. January 2025.
+This README was last updated on 08. December 2025.
